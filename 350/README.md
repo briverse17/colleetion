@@ -9,3 +9,6 @@ See `sol.py`. If you need detail explanation please create an issue.
 
 ## Complexity
 - Time: $$O(N+M)$$
+
+---
+Personal note: Daily. Jul 2 2024
