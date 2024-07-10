@@ -10,7 +10,7 @@ class Solution:
             if log != "./":
                 # "../" is a backward operation
                 # => reduce `height` by 1
-                # but if we're already at Main, do nothing
+                # but if we're already at "Main", do nothing
                 if log == "../":
                     height = max(height - 1, 0)
                 # otherwise, it's a normal forward operation
